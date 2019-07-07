@@ -1,0 +1,7 @@
+
+
+WEEK 1(July 1- 7)
+ - To Learn & Refresh: 
+	Basics of Computer Vision and Machine Vision
+	Basics of Pytorch& practice in Colab & Upload in Github
+

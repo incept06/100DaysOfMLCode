@@ -1,0 +1,6 @@
+# 100 Days of ML 
+## WEEK 2(July 8 - 15)
+ - To Work more on PyTorch with datasets
+ - CS231 Notes on CNNs (refresh)
+ - Deep Dive on Convolutional Filters & Edge detection
+ - Identify features & Image segmentation

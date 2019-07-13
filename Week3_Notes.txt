@@ -1,0 +1,7 @@
+# 100 Days of ML 
+## WEEK 3(July 15 - 21)
+	- CS231 : ConvNet Architectures 
+		Layer Patterns
+		Layer Sizing Patterns
+		Case Studies (LeNet / AlexNet / ZFNet / GoogLeNet / VGGNet)
+	- CNN layers and feature Visualization
